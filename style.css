@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background: linear-gradient(to right, #f9f9f9, #eaeaea);
 }
 
@@ -35,3 +35,4 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
